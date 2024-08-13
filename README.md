@@ -3,7 +3,7 @@
 
 <p align="center">🌱 I'm currently deepening my expertise in Java and C, focusing on scalable applications and embedded systems.</p>
 
-<p align="center">📫 To reach me, please email <a href="mailto:gabrielgrmagalhaes@outlook.com">gabrielgrmagalhaes@outlook.com</a></p>
+<p align="center">📫 To reach me, please email <a href="mailto:contato@gabrielgrm.com">contato@gabrielgrm.com</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
