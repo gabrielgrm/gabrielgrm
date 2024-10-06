@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gabriel</h1>
 <h3 align="center">👨‍💻 Brazilian developer graduating from Cesar School, dedicated to innovative software solutions and systems integration. Committed to lifelong learning and contributing to the tech community.</h3>
 
-<p align="center">🌱 I'm currently deepening my expertise in Java and C, focusing on scalable applications and embedded systems.</p>
+<p align="center">🌱 I'm currently deepening my expertise in JavaScript/Next.js.</p>
 
 <p align="center">📫 To reach me, please email <a href="mailto:contato@gabrielgrm.com">contato@gabrielgrm.com</a></p>
 
